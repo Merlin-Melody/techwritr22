@@ -108,6 +108,6 @@ When no longer needed, you can delete the **resource** group, virtual machine, a
 
 3. A page will open warning you that you are about to **Delete resources**. Type the name of the resource group and select **Delete** to finish deleting the resources and the resource group.
 
-Next: [Virtual Machine List](https://github.com/Merlin-Melody/TW-2022/blob/main/VM%20List.md)
+Next: [Virtual Machine List](https://github.com/Merlin-Melody/techwritr22/blob/main/virtual%20machine%20list%20API%20doc.md)
 
 
